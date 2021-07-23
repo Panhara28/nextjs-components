@@ -2,10 +2,18 @@
 @import url("https://fonts.googleapis.com/css2?family=Open Sans&display=swap");
 
 html,
-body {
+body,
+h1,
+ul {
   margin: 0;
+  padding: 0;
 }
 
-h1 {
-  margin: 0;
+ul {
+  text-decoration: none;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
 }

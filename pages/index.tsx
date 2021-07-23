@@ -7,6 +7,10 @@ export default function Home() {
       fontColor="#fff"
       padding="25px"
       fontSize="22px"
+      flex={1}
+      alignItems="center"
+      justifyContent="center"
+      linkColor="#fff"
     />
   )
 }
